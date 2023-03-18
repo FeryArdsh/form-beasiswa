@@ -1,6 +1,9 @@
-# assesment-vsga
-Aplikasi Pendaftaran Beasiswa Menggunakan PHP 8 Native dan MySQL
+# Pendaftaran Beasiswa
 
-# Junior Web Developer
-<tt>Nama  : Inggih Rembang Setyo</tt>
-
+Step :
+<ol>
+<li>Download semua file</li>
+<li>Hubungkan phpmyadmin dengan XAMPP</li>
+<li>Import SQL file ke dalam phpmyadmin</li>
+<li>Buka browser dan masukkan URL dengan nama folder yang diberikan</li>
+</ol>
